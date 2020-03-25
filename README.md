@@ -2,7 +2,7 @@
 
 The strucute used for maintaining configuration baselines is:
 
-TRUNK (initial configuration)
+## TRUNK (initial configuration)
 |
 |--> Enterprise Configuration (branch)
 |.   --> Workstations configuration (json)
